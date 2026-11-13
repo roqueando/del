@@ -1,0 +1,6 @@
+build/
+build-*/
+dist-newstyle/
+newdist/
+.DS_Store
+*.pwbproj.tmp
